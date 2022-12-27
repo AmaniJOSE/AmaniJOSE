@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AmaniJOSE
+- 👀 I’m 11 years old currently (2022)
+- 🌱 I’m currently learning python
+- I'm in grade 6
+- 📫 I want to develop games
