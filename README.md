@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AmaniJOSE
-- 👀 I’m 11 years old currently (2022)
-- 🌱 I’m currently learning python
-- I'm in grade 6
-- 📫 I want to develop games
+- 👋 Hi, I’m hadrielAmani
+- i am currently 23 years old(2025)
+- i first created this in 2022 while using only a bit of python
+- but now i am learning python to control my arduino,java to make 3d games in openGL,and c++ for what i was using python to do in 2022
+- i dont really remember
